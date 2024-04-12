@@ -1,6 +1,7 @@
 # Data Analyst
 
 #### Technical Skills: Python, R, Microsoft Power BI, Mysql
+#### Certifications: Microsoft Certified: Power BI Data Analyst Associate, Azure: Data Fundamentals, Azure: AI Fundamentals
 
 ### Education
 - M.S., Data Science | Monash Univerisity (_Jan 2021_)
@@ -19,7 +20,7 @@ optimize data workflows and meet performance targets.
 - Conducted analysis on historical time series data by week trend, implemented adjustments to align the trend component
 with recent data, and enhance data accuracy.
 
-**Data Scientist Intern @ UST (_January 2020 - _February 2020)
+**Data Scientist Intern @ UST (_January 2020 - _February 2020)**
 - Led the development of a new product leveraging real-time sensor data, driving innovation in energy project solutions.
 - Achieved a 98% accuracy rate in machine learning model for parameter classification, validating model effectiveness
 through rigorous cross-validation techniques.
